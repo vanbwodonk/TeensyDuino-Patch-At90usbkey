@@ -1,7 +1,8 @@
 TeensyDuino-Patch-At90usbkey
 ============================
 
-This TeensyDuino patch for AT90USBkey with AT90usb1287, 
+This TeensyDuino patch for AT90USBkey with AT90usb1287
+
 1. Download arduino IDE (http://arduino.cc/en/Main/Software)
 2. Combine it with teensyduino (http://www.pjrc.com/teensy/td_download.html)
 3. Patch with this
