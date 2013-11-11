@@ -10,5 +10,5 @@ This TeensyDuino patch for AT90USBkey with AT90usb1287
 5. Verify and goto .hex folder, 
 6. Halfkay bootloader is not open source yet, then you burn .hex with DFU or ISP
 
-NOTE: i used arduino 1.0.5 with teensy duino 1.16
+*NOTE: i used arduino 1.0.5 with teensy duino 1.16
 
